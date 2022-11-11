@@ -3,6 +3,7 @@ import Home from './components/Home';
 import Adduser from './components/AddUser';
 import Edituser from './components/EditUser';
 import Allusers from './components/AllUsers';
+import Notfound from './components/NotFound';
 import Viewuser from './components/ViewUser';
 import UserView from './usercomponents/UserView';
 import UserAboutUs from './usercomponents/UserAboutUs';
@@ -22,6 +23,7 @@ const Componentroute = () => {
             <Route path='/view/:id' element={<Viewuser/>}/>
             <Route path='usermenu/view/:id' element={<UserView/>}/>
             <Route path='/edit/:id' element={<Edituser/>}/>
+            <Route path='*' element={<Notfound/>}/>
                               
         </Routes>    
     );
