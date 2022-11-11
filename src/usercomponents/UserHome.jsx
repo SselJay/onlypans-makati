@@ -13,7 +13,7 @@ function UserHome() {
             <div className="container sectionOneFavorite">
                 <div className="row d-flex flex-md-row flex-column mt-5 mb-5 ">
                     <div className="col imgFavorite1">
-                        <img src="/img/Menu/Home/quesabirriataco.png" className="card-img-top container1" alt="..." style={{ border: '0px solid rgba(0, 0, 0, 0.7)', borderRadius: 10 }} />
+                        <img src="img/Menu/Home/quesabirriataco.png" className="card-img-top container1" alt="..." style={{ border: '0px solid rgba(0, 0, 0, 0.7)', borderRadius: 10 }} />
                     </div>
                     <div className="col">
                         <h5 className="homepic mb-3 bg-dark text-white p-2 fs-3 text-md-start text-center mt-3 mt-md-0" style={{ borderRadius: 5 }}>Quesa Birria Taco</h5>
