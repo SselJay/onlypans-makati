@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SselJay/makati-onlypans/precache-manifest.b1d2e57167b7d01ba111529bf9d70a48.js"
+  "/onlypans-makati/precache-manifest.5ae0268ea6dd784c4878b035b35aa2cb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/SselJay/makati-onlypans/index.html", {
+workbox.routing.registerNavigationRoute("/onlypans-makati/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
