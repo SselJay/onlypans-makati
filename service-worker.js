@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/onlypans-makati/precache-manifest.5ae0268ea6dd784c4878b035b35aa2cb.js"
+  "/onlypans-makati/precache-manifest.ea367472a66cd95000e5dcc86095420c.js"
 );
 
 workbox.clientsClaim();
