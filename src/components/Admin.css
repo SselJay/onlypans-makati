@@ -1,0 +1,80 @@
+.AdminHeading {
+    font-size: 70px;
+    font-weight: 600;
+    background: #FF0B02;
+    background: linear-gradient(to right, #FF0B02 0%, #AD120F 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* image animation start */
+.container1 {
+    transition: 0.5s;
+    cursor: pointer;
+    border: 1px;
+}
+
+.container1:hover {
+    transform: scale(1.05);
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+}
+
+.container1::before,
+.container1::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transform: scale3d(0, 0, 1);
+    transition: transform .3s ease-out 0s;
+    background: rgba(255, 255, 255, 0.1);
+    content: '';
+    pointer-events: none;
+}
+
+.container1::before {
+    transform-origin: left top;
+}
+
+.container1::after {
+    transform-origin: right bottom;
+}
+
+.container1:hover::before,
+.container1:hover::after,
+.container1:focus::before,
+.container1:focus::after {
+    transform: scale3d(1, 1, 1);
+}
+
+/* image animation end */
+
+/* animate text start */
+.animate-charcter {
+    text-transform: uppercase;
+    background-image: linear-gradient(-225deg,
+            #231557 0%,
+            #44107a 29%,
+            #ff1361 67%,
+            #fff800 100%);
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 200% auto;
+    color: #fff;
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    /* font-size: 190px; */
+}
+
+@keyframes textclip {
+    to {
+        background-position: 200% center;
+    }
+}
+
+/* animate text end */

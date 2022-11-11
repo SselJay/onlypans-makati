@@ -1,0 +1,82 @@
+html{
+	scroll-behavior: smooth;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+li{
+	list-style-type: none;
+  }
+.custom-className-navbar-gap{
+  gap: 100px;
+}
+@media all and (min-width: 992px) {
+	.navbar .dropdown-menu-end{ right:0; left: auto;  }
+	.navbar .nav-item .dropdown-menu{  display:block; opacity: 0;  visibility: hidden; transition:.3s; margin-top:0;  }
+	.navbar .dropdown-menu.fade-down{ top:80%; transform: rotateX(-75deg); transform-origin: 0% 0%; }
+	.navbar .dropdown-menu.fade-up{ top:180%;  }
+	.navbar .nav-item:hover .dropdown-menu{ transition: .3s; opacity:1; visibility:visible; top:100%; transform: rotateX(0deg); }
+
+nav ul li{
+  transition:0.5s;
+}
+nav.custom-className-main-nav ul li #custom-className-hover-a:hover {
+  color: #fff;
+  z-index: 1;
+}
+
+nav ul li a{
+  display: block;
+  position:relative;
+  color:#fff;
+  transition:0.5s;
+}
+
+nav ul li #custom-className-hover-a:hover{
+  text-decoration:none;
+  color:#fff;
+}
+nav ul li #custom-className-hover-a:before{
+  content:'';
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background:red;
+  transition:0.3s;
+  transform-origin:bottom;
+  transform:scaleX(0);
+  z-index:-1;
+  border-radius: 5px;
+}
+
+nav ul li #custom-className-hover-a:hover:before{
+  transition:transform 0.3s;
+  transform-origin:top;
+  transform:scaleX(1);
+}
+}
+
+.custom-className-logo-top{
+  width: 105px;
+}
+
+/* FOR NAVS */
+
+@media (max-width: 1075px){
+  .custom-className-logo-top{
+    margin:auto;
+  }
+  .custom-className-dropdown{
+    align-self: center;
+  }
+}
+@media (min-width: 991px){
+  .custom-className-logo-top-hr{
+    display: none;
+  }
+}

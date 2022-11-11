@@ -1,0 +1,138 @@
+{
+  "user": [
+    {
+      "name": "Quesa Birria Taco",
+      "description": "To serve this dish USDA beef is slowly cooked in authentic mexican chills and 16 spices with top grade mozzarella cheese, 3 kinds of sauces, pico de gallo & lime.",
+      "price": "390",
+      "photo": "https://scontent.ffjr1-6.fna.fbcdn.net/v/t39.30808-6/308001076_604096098121413_6541020580941541519_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_ohc=gIIgEPuMwl0AX_bugt0&tn=mAmMMnfOp-orWNIe&_nc_ht=scontent.ffjr1-6.fna&oh=00_AT9DRO_w217wcHuTFOzRChCFE_-hUO4NETZ7RRyA5R7yLg&oe=632F7250",
+      "department": "",
+      "id": 1
+    },
+    {
+      "name": "Carnitas Taco",
+      "description": "Slow cooked top grade pork meat in our house special recipe, topped with pickled onions and chipotle barbeque sauce.",
+      "price": "350",
+      "photo": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/307129417_604095388121484_3489186330756254191_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=ZthMcckhiAgAX-kUKkL&_nc_ht=scontent-sin6-3.xx&oh=00_AT-gNd2N7x2nI6bueyL-YMZPFu7i_YsYd4oDflDzUw5hYg&oe=632EA146",
+      "department": "",
+      "id": 2
+    },
+    {
+      "name": "Camaron Taco",
+      "description": "Fresh shrimp in house special marinade, dipped in beer batter & served with homemade coleslaw, alfalfa, red radish & pickled onion.",
+      "price": "400",
+      "photo": "https://scontent.ffjr1-6.fna.fbcdn.net/v/t39.30808-6/307167871_604095278121495_8419122735739871832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_ohc=w6BVh5kEcsIAX8J4zTW&tn=mAmMMnfOp-orWNIe&_nc_ht=scontent.ffjr1-6.fna&oh=00_AT_Fcagd8MNNNlOWUv4WhJ0GJZp9CIjUlI_2mXNzMWj2IA&oe=632E28F7",
+      "department": "",
+      "id": 3
+    },
+    {
+      "name": "Camaron Tostadas",
+      "description": "Fresh shrimp in house special marinade, dipped in beer batter & served with homemade coleslaw, alfalfa, red radish & pickled onion.",
+      "price": "400",
+      "photo": "https://scontent.ffjr1-4.fna.fbcdn.net/v/t39.30808-6/307449176_604095288121494_4865716897549238975_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=0debeb&_nc_ohc=fZ3CMJqyTjAAX_WPTDe&_nc_ht=scontent.ffjr1-4.fna&oh=00_AT8B0VZxYnwUzz3LAgJoJIK2etAV20qMGyWhT7WJnXwpgQ&oe=632E9C69",
+      "department": "",
+      "id": 4
+    },
+    {
+      "name": "Quesadillas",
+      "description": "Soft tortilla with your choice of meat filled with cheese and spices. Served with house special sauces and pico de gallo.",
+      "price": "350",
+      "photo": "https://scontent.ffjr1-4.fna.fbcdn.net/v/t39.30808-6/301415808_604095761454780_6960236979187766899_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=0debeb&_nc_ohc=jqlDyfBdicwAX9trmv6&_nc_ht=scontent.ffjr1-4.fna&oh=00_AT_ESeMuLc_ODlvFX-DpWO_U4krQqwFpH3pb9vwq-7OOGw&oe=632EB9DA",
+      "department": "Side Menu",
+      "id": 5
+    },
+    {
+      "name": "Borrito",
+      "description": "Cilantro lime rice,  choice of meat, beans, corn, cheese, with garlic sauce. Enjoy and be filled with its savory flavor.",
+      "price": "350",
+      "photo": "https://scontent.ffjr1-5.fna.fbcdn.net/v/t39.30808-6/307019919_604096054788084_2083760076337494627_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=T_0pZ1SkEKkAX85ntt4&_nc_ht=scontent.ffjr1-5.fna&oh=00_AT8SL4BD46fZiExph70gIew1g-HdUF0Sp47Tsx74fVYXnA&oe=632E3977",
+      "department": "Side Menu",
+      "id": 6
+    },
+    {
+      "name": "Regulares Taco",
+      "description": "Our one of a kind Mexican street tacos. Enjoy and savor our version of the famous street food.",
+      "price": "300",
+      "photo": "https://scontent.ffjr1-4.fna.fbcdn.net/v/t39.30808-6/307132262_604265074771182_3538448936838206584_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=0debeb&_nc_ohc=P8Hp_hxNYvUAX_9F9HB&_nc_ht=scontent.ffjr1-4.fna&oh=00_AT83pbx5_DiD3jkfDLW7kdWyG_eRY5zEsiKIDO0_OoIIQg&oe=632F7301",
+      "department": "Side Menu",
+      "id": 7
+    },
+    {
+      "name": "Ahumdas",
+      "description": "Meat smoked and slow cooked for 16 hours. Served with house barbeque & chimchurri sauce.",
+      "price": "650",
+      "photo": "https://scontent.ffjr1-5.fna.fbcdn.net/v/t39.30808-6/307444516_604095938121429_1698493522552949776_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=mSvwifRbpNMAX9QEI5J&tn=mAmMMnfOp-orWNIe&_nc_ht=scontent.ffjr1-5.fna&oh=00_AT9KWiq0-br8iJDJrr7FFDWKtJHtMg_aQMo_6-xBlSO2pg&oe=632EA594",
+      "department": "Side Menu",
+      "id": 8
+    },
+    {
+      "name": "Nachos con Carne",
+      "description": "Made with crispy and hot nacho chips topped with another generous serving of marinated minced beef, tomato, bell pepper with house-made salsa for dipping.",
+      "price": "360",
+      "photo": "https://scontent.ffjr1-2.fna.fbcdn.net/v/t39.30808-6/307123897_604095608121462_7018950083755198234_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0debeb&_nc_ohc=K1TQky3s74oAX_ea8r8&_nc_ht=scontent.ffjr1-2.fna&oh=00_AT_TjVnnUZPf9Ez_uWPttzs_rhS3bKB7dywDyagOhjRRCg&oe=632DA2D0",
+      "department": "Extras",
+      "id": 9
+    },
+    {
+      "name": "Camaron Cevichi",
+      "description": "Raw shrimp cooked in lime juice and tossed fresh tomatoes, onion, jalapenos, bell pepper, and cilantro. Perfect for an appetizer before your main meal.",
+      "price": "400",
+      "photo": "https://scontent.ffjr1-4.fna.fbcdn.net/v/t39.30808-6/307178621_604096018121421_474973980590604033_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=CVsbwcsG0DoAX93Fjox&_nc_ht=scontent.ffjr1-4.fna&oh=00_AT8o1chLEK4eDjIcVYVbbhgsBr5SfuOfhHN1Oi_XEkVuBQ&oe=632E0A8C",
+      "department": "Extras",
+      "id": 10
+    },
+    {
+      "name": "Sopa de Tortilla",
+      "description": "Our version of mexican corn soup made from fried corn tortilla pieces, submerged into a broth of tomato, garlic, onion & chile de arbol and epazote.",
+      "price": "200",
+      "photo": "https://scontent.ffjr1-2.fna.fbcdn.net/v/t39.30808-6/307440735_604095838121439_8191994917854432082_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=SYsxop2A9t4AX8eduGS&_nc_ht=scontent.ffjr1-2.fna&oh=00_AT87BxcThnJnQ0in-_kx4r12TH9-FB12BhaZUU5ysnMClg&oe=632E5969",
+      "department": "Extras",
+      "id": 11
+    },
+    {
+      "name": "Horchata",
+      "description": "Mexican rice milk with dairy milk, cinnamon & vanilla.",
+      "price": "200",
+      "photo": "https://scontent.ffjr1-6.fna.fbcdn.net/v/t39.30808-6/307922528_604095548121468_8560366636331645458_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_ohc=Plj3IY2WbhgAX_GCUfh&_nc_ht=scontent.ffjr1-6.fna&oh=00_AT-SxBuwa_5f-JMSTf4k53thjJXwQES1I7JMGXAt8dS7XA&oe=632E16B1",
+      "department": "Extras",
+      "id": 12
+    },
+    {
+      "name": "Pescado Taco",
+      "description": "Fish meat in house special marinade, dipped in beer batter & served with home made coleslaw, alfalfa, red radish & pickled onions.",
+      "price": "300",
+      "photo": "https://scontent.fdxb1-1.fna.fbcdn.net/v/t39.30808-6/307120423_604095708121452_52043229418761408_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=Y2CDQu4NSR0AX8Bmsb5&_nc_ht=scontent.fdxb1-1.fna&oh=00_AT86YcvBAkHqeFmn0LJgAIdJbCGdVePIyPgWUCdf62rOQw&oe=632FE5A3",
+      "department": "",
+      "id": 13
+    },
+    {
+      "name": "Tacolitos Plato",
+      "description": "In this selection we present to you 8 sampler tacos, flavor based on your selection.",
+      "price": "1200",
+      "photo": "https://scontent.fdxb1-1.fna.fbcdn.net/v/t39.30808-6/307309065_604095954788094_3874222251951500164_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=mcSMJt4yCS8AX_0BD5h&_nc_ht=scontent.fdxb1-1.fna&oh=00_AT9f2879MnAmW8jOkIdjrlIQvANzE9R_mMnMirMTtzsVNw&oe=6330AAAE",
+      "department": "Side Menu",
+      "id": 14
+    },
+    {
+      "name": "Cervezas",
+      "description": "Enjoy your meal with these ice cold cervezas.  You may choose from our thirst-quencing selection of Corona, San Mig Pale Pilsen or San Mig Light",
+      "price": "150",
+      "photo": "https://scontent.fdxb1-1.fna.fbcdn.net/v/t39.30808-6/308126381_604096221454734_5770497463826474683_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0debeb&_nc_ohc=tV0Y_xMT5SUAX9_qKof&_nc_ht=scontent.fdxb1-1.fna&oh=00_AT-RCY9EHMd8Gjn3JedoM87l-xLPYI_0SA1G2B5DSWjErQ&oe=6330C7D5",
+      "department": "",
+      "id": 15
+    }
+  ],
+  "department": [
+    {
+      "id": "1",
+      "departmentName": "Best Seller"
+    },
+    {
+      "id": "2",
+      "departmentName": "Side Menu"
+    },
+    {
+      "id": "3",
+      "departmentName": "Extras"
+    }
+  ]
+}
