@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "05508530a28b7a6e1ab6",
+    "revision": "68a358371f7c89a43015",
     "url": "/onlypans-makati/static/css/main.7ec7db5a.chunk.css"
   },
   {
-    "revision": "05508530a28b7a6e1ab6",
-    "url": "/onlypans-makati/static/js/main.05508530.chunk.js"
+    "revision": "68a358371f7c89a43015",
+    "url": "/onlypans-makati/static/js/main.68a35837.chunk.js"
   },
   {
     "revision": "82fcb55c956dc39256c1",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/onlypans-makati/static/media/fa-v4compatibility.786e6b33.woff2"
   },
   {
-    "revision": "b1a1bebb63656b34a23982706f712f71",
-    "url": "/onlypans-makati/static/media/fa-regular-400.b1a1bebb.ttf"
-  },
-  {
     "revision": "a78ffbbed2d858c61e068e3b756c9988",
     "url": "/onlypans-makati/static/media/fa-brands-400.a78ffbbe.ttf"
+  },
+  {
+    "revision": "b1a1bebb63656b34a23982706f712f71",
+    "url": "/onlypans-makati/static/media/fa-regular-400.b1a1bebb.ttf"
   },
   {
     "revision": "55b416a8df21f9f987aa352f10d1343b",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/onlypans-makati/static/media/fa-solid-900.73820155.ttf"
   },
   {
-    "revision": "f984ebfbc7c01541cf8e1753ff0ef8bd",
+    "revision": "1e29088b99e06206dfe4883a4c4abca4",
     "url": "/onlypans-makati/index.html"
   }
 ];
