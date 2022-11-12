@@ -1,6 +1,8 @@
 {
   "homepage": "https://sseljay.github.io/onlypans-makati/",
   "menupage": "https://sseljay.github.io/onlypans-usermenu/",
+  "eventspage": "https://sseljay.github.io/onlypans-useraboutus/",
+  "aboutuspage": "https://sseljay.github.io/onlypans-userevents/",
   "name": "crud-json",
   "version": "0.1.0",
   "private": true,
