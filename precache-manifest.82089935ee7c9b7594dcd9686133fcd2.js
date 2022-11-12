@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7c23fffd1d811a4fb9e2",
+    "revision": "f08e292d5a35a0cb8a58",
     "url": "/onlypans-makati/static/css/main.7ec7db5a.chunk.css"
   },
   {
-    "revision": "7c23fffd1d811a4fb9e2",
-    "url": "/onlypans-makati/static/js/main.7c23fffd.chunk.js"
+    "revision": "f08e292d5a35a0cb8a58",
+    "url": "/onlypans-makati/static/js/main.f08e292d.chunk.js"
   },
   {
     "revision": "093918f0e9f10e564e89",
@@ -20,20 +20,20 @@ self.__precacheManifest = [
     "url": "/onlypans-makati/static/js/runtime~main.128bda68.js"
   },
   {
-    "revision": "e8a1ba418ee6d897d1339ef22e6d8e60",
-    "url": "/onlypans-makati/static/media/fa-regular-400.e8a1ba41.woff2"
-  },
-  {
     "revision": "b1a1bebb63656b34a23982706f712f71",
     "url": "/onlypans-makati/static/media/fa-regular-400.b1a1bebb.ttf"
   },
   {
-    "revision": "55b416a8df21f9f987aa352f10d1343b",
-    "url": "/onlypans-makati/static/media/fa-solid-900.55b416a8.woff2"
-  },
-  {
     "revision": "cd2b4095e9ce66cde642c3502a4022d9",
     "url": "/onlypans-makati/static/media/fa-brands-400.cd2b4095.woff2"
+  },
+  {
+    "revision": "e8a1ba418ee6d897d1339ef22e6d8e60",
+    "url": "/onlypans-makati/static/media/fa-regular-400.e8a1ba41.woff2"
+  },
+  {
+    "revision": "55b416a8df21f9f987aa352f10d1343b",
+    "url": "/onlypans-makati/static/media/fa-solid-900.55b416a8.woff2"
   },
   {
     "revision": "a78ffbbed2d858c61e068e3b756c9988",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/onlypans-makati/static/media/fa-solid-900.73820155.ttf"
   },
   {
-    "revision": "1410c8fa3bf8f33e139e95f86fae4cb3",
+    "revision": "328363082fc6d050e9d943ea2330a943",
     "url": "/onlypans-makati/index.html"
   }
 ];
