@@ -8,19 +8,19 @@ const UserNavBar = ()=>{
 
 
   const onHome = () => {
-    navigate('/onlypans-makati')
+    navigate('/onlypans-makati/')
   }
 
   const onMenu = () => {
-    navigate('/usermenu')
+    navigate('/usermenu/')
   }
 
   const onEvents = () => {
-    navigate('/userevents')
+    navigate('/userevents/')
   }
 
   const onAboutUs = () => {
-    navigate('/useraboutus')
+    navigate('/useraboutus/')
   }
 
 
@@ -33,22 +33,22 @@ const UserNavBar = ()=>{
     <div className="custom-className-logo-top collapse navbar-collapse" id="navbarText">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="custom-className-logo-top nav-item">
-          <Link to="/onlypans-makati" id="homeicon" className="custom-className-logo-top nav-link active" aria-current="page"><img className="custom-className-logo-top" src="img/onlypansprofilepicture.jpeg" alt=""  onClick={onHome} style={{borderRadius: 15}}/></Link>
+          <Link to="/onlypans-makati/" id="homeicon" className="custom-className-logo-top nav-link active" aria-current="page"><img className="custom-className-logo-top" src="img/onlypansprofilepicture.jpeg" alt=""  onClick={onHome} style={{borderRadius: 15}}/></Link>
           <hr className="custom-className-logo-top-hr"></hr>
         </li>
       </ul>
       <ul className="custom-className-navbar-gap navbar-nav mb-2 mb-lg-0">
         <li className="nav-item text-center">
-          <Link to="/onlypans-makati" id="custom-className-hover-a" className="fs-5 nav-link" aria-current="page" onClick={onHome}><i class="fa-solid fa-house"></i> Home</Link>
+          <Link to="/onlypans-makati/" id="custom-className-hover-a" className="fs-5 nav-link" aria-current="page" onClick={onHome}><i class="fa-solid fa-house"></i> Home</Link>
         </li>
         <li className="nav-item text-center">
-          <Link to="/usermenu" id="custom-className-hover-a" className="fs-5 nav-link" aria-current="page" onClick={onMenu}><i class="fa-solid fa-utensils"></i> Menu</Link>
+          <Link to="/usermenu/" id="custom-className-hover-a" className="fs-5 nav-link" aria-current="page" onClick={onMenu}><i class="fa-solid fa-utensils"></i> Menu</Link>
         </li>
         <li className="nav-item text-center">
-          <Link to="/userevents" id="custom-className-hover-a" className="fs-5 nav-link" aria-current="page" onClick={onEvents}><i class="fa-regular fa-calendar-days"></i> Events</Link>
+          <Link to="/userevents/" id="custom-className-hover-a" className="fs-5 nav-link" aria-current="page" onClick={onEvents}><i class="fa-regular fa-calendar-days"></i> Events</Link>
         </li>
         <li className="nav-item text-center">
-          <Link to="/useraboutus" id="custom-className-hover-a" className="fs-5 nav-link" onClick={onAboutUs}><i class="fa-solid fa-user"></i> About Us</Link>
+          <Link to="/useraboutus/" id="custom-className-hover-a" className="fs-5 nav-link" onClick={onAboutUs}><i class="fa-solid fa-user"></i> About Us</Link>
         </li>
       
         {/* <li className="custom-className-dropdown nav-item dropdown">

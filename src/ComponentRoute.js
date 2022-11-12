@@ -13,12 +13,12 @@ import UserMenu from './usercomponents/UserMenu';
 const Componentroute = () => {
     return (
         <Routes>
-            <Route path='/onlypans-makati' element={<Home/>}/>
-            <Route path='/add' element={<Adduser/>}/>
-            <Route path='/admin' element={<Allusers/>}/>
-            <Route path='/useraboutus' element={<UserAboutUs/>}/>
-            <Route path='/userevents' element={<UserEvents/>}/>
-            <Route path='/usermenu' element={<UserMenu/>}/>
+            <Route path='/onlypans-makati/' element={<Home/>}/>
+            <Route path='/add/' element={<Adduser/>}/>
+            <Route path='/admin/' element={<Allusers/>}/>
+            <Route path='/useraboutus/' element={<UserAboutUs/>}/>
+            <Route path='/userevents/' element={<UserEvents/>}/>
+            <Route path='/usermenu/' element={<UserMenu/>}/>
             <Route path='/view/:id' element={<Viewuser/>}/>
             <Route path='usermenu/view/:id' element={<UserView/>}/>
             <Route path='/edit/:id' element={<Edituser/>}/>
