@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1b4c5e108183f461ecea",
+    "revision": "66bed762083931f2568e",
     "url": "/onlypans-makati/static/css/main.7ec7db5a.chunk.css"
   },
   {
-    "revision": "1b4c5e108183f461ecea",
-    "url": "/onlypans-makati/static/js/main.1b4c5e10.chunk.js"
+    "revision": "66bed762083931f2568e",
+    "url": "/onlypans-makati/static/js/main.66bed762.chunk.js"
   },
   {
     "revision": "82fcb55c956dc39256c1",
@@ -20,6 +20,10 @@ self.__precacheManifest = [
     "url": "/onlypans-makati/static/js/runtime~main.128bda68.js"
   },
   {
+    "revision": "cd2b4095e9ce66cde642c3502a4022d9",
+    "url": "/onlypans-makati/static/media/fa-brands-400.cd2b4095.woff2"
+  },
+  {
     "revision": "b1a1bebb63656b34a23982706f712f71",
     "url": "/onlypans-makati/static/media/fa-regular-400.b1a1bebb.ttf"
   },
@@ -28,12 +32,16 @@ self.__precacheManifest = [
     "url": "/onlypans-makati/static/media/fa-regular-400.e8a1ba41.woff2"
   },
   {
-    "revision": "cd2b4095e9ce66cde642c3502a4022d9",
-    "url": "/onlypans-makati/static/media/fa-brands-400.cd2b4095.woff2"
+    "revision": "55b416a8df21f9f987aa352f10d1343b",
+    "url": "/onlypans-makati/static/media/fa-solid-900.55b416a8.woff2"
   },
   {
     "revision": "0d6f5f1852affca569715821fe4aa29b",
     "url": "/onlypans-makati/static/media/fa-v4compatibility.0d6f5f18.ttf"
+  },
+  {
+    "revision": "738201559a50502aacabdbdb02720910",
+    "url": "/onlypans-makati/static/media/fa-solid-900.73820155.ttf"
   },
   {
     "revision": "a78ffbbed2d858c61e068e3b756c9988",
@@ -44,15 +52,7 @@ self.__precacheManifest = [
     "url": "/onlypans-makati/static/media/fa-v4compatibility.786e6b33.woff2"
   },
   {
-    "revision": "738201559a50502aacabdbdb02720910",
-    "url": "/onlypans-makati/static/media/fa-solid-900.73820155.ttf"
-  },
-  {
-    "revision": "55b416a8df21f9f987aa352f10d1343b",
-    "url": "/onlypans-makati/static/media/fa-solid-900.55b416a8.woff2"
-  },
-  {
-    "revision": "81d8c502dcc1c4dabfeb3e2e42f52846",
+    "revision": "ecc18996ce4f9d3de966f2104836a524",
     "url": "/onlypans-makati/index.html"
   }
 ];
