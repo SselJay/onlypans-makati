@@ -14,7 +14,6 @@ const Componentroute = () => {
     return (
         <Routes>
             <Route path='/onlypans-makati' element={<Home/>}/>
-            <Route path='/onlypans-home' element={<Home/>}/>
             <Route path='/add' element={<Adduser/>}/>
             <Route path='/admin' element={<Allusers/>}/>
             <Route path='/useraboutus' element={<UserAboutUs/>}/>
