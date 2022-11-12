@@ -126,7 +126,7 @@ export default function UserEvents() {
                                 <div className="card cardI mb-3">
                                     <div className="row g-0">
                                         <div className="col-md-12">
-                                            <img src="img//Events/Events 2/Pride Month resized.png"
+                                            <img src="img/Events/Events 2/Pride Month resized.png"
                                                 className="img-fluid content_img rounded-start" alt="events" />
                                         </div>
                                         <div className="col-md-12">
