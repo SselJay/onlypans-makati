@@ -33,7 +33,7 @@ const UserNavBar = ()=>{
     <div className="custom-className-logo-top collapse navbar-collapse" id="navbarText">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="custom-className-logo-top nav-item">
-          <Link to="/onlypans-home" id="homeicon" className="custom-className-logo-top nav-link active" aria-current="page"><img className="custom-className-logo-top" src="/img/onlypansprofilepicture.jpeg" alt=""  onClick={onHome} style={{borderRadius: 15}}/></Link>
+          <Link to="/onlypans-home" id="homeicon" className="custom-className-logo-top nav-link active" aria-current="page"><img className="custom-className-logo-top" src="img/onlypansprofilepicture.jpeg" alt=""  onClick={onHome} style={{borderRadius: 15}}/></Link>
           <hr className="custom-className-logo-top-hr"></hr>
         </li>
       </ul>
