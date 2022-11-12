@@ -1,7 +1,7 @@
 {
   "main.css": "/onlypans-makati/static/css/main.7ec7db5a.chunk.css",
-  "main.js": "/onlypans-makati/static/js/main.48452614.chunk.js",
-  "main.js.map": "/onlypans-makati/static/js/main.48452614.chunk.js.map",
+  "main.js": "/onlypans-makati/static/js/main.6c964599.chunk.js",
+  "main.js.map": "/onlypans-makati/static/js/main.6c964599.chunk.js.map",
   "static/css/1.eb102209.chunk.css": "/onlypans-makati/static/css/1.eb102209.chunk.css",
   "static/js/1.82fcb55c.chunk.js": "/onlypans-makati/static/js/1.82fcb55c.chunk.js",
   "static/js/1.82fcb55c.chunk.js.map": "/onlypans-makati/static/js/1.82fcb55c.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/1.eb102209.chunk.css.map": "/onlypans-makati/static/css/1.eb102209.chunk.css.map",
   "static/css/main.7ec7db5a.chunk.css.map": "/onlypans-makati/static/css/main.7ec7db5a.chunk.css.map",
   "index.html": "/onlypans-makati/index.html",
-  "precache-manifest.5d9630a0565f86882a5613940784bcd1.js": "/onlypans-makati/precache-manifest.5d9630a0565f86882a5613940784bcd1.js",
+  "precache-manifest.3e4d2147a8a7538ceb809ffabb9dd705.js": "/onlypans-makati/precache-manifest.3e4d2147a8a7538ceb809ffabb9dd705.js",
   "service-worker.js": "/onlypans-makati/service-worker.js"
 }
