@@ -34,15 +34,15 @@ export default function UserFooter () {
                 
                 <div className="container d-flex justify-content-around align-items-center m-0 p-0">
                     <div className="d-flex align-items-center">
-                    <a href="https://www.foodpanda.ph/restaurant/j5oj/onlypans-taqueria?fbclid=IwAR3goy-k2e684ob48wgGMnWWlVNdfEOGsv1jieacVKHkjsj-SqFdMZ8Cjjk"><img className="footericon img-fluid mx-2" src="/img/foodpandalogowhite.png" style={{ width: 100 }} alt="" /></a>
+                    <a href="https://www.foodpanda.ph/restaurant/j5oj/onlypans-taqueria?fbclid=IwAR3goy-k2e684ob48wgGMnWWlVNdfEOGsv1jieacVKHkjsj-SqFdMZ8Cjjk"><img className="footericon img-fluid mx-2" src="img/foodpandalogowhite.png" style={{ width: 100 }} alt="" /></a>
 
-                    <a href="https://food.grab.com/ph/en/restaurant/onlypans-taqueria-poblacion-available-for-long-distance-delivery-delivery/2-C3AYC8CJMGJUHE"><img className="footericon img-fluid mx-2" src="/img/GrabFoodLogowhite.png" style={{ width: 50, height: 50 }} alt="" /></a>
+                    <a href="https://food.grab.com/ph/en/restaurant/onlypans-taqueria-poblacion-available-for-long-distance-delivery-delivery/2-C3AYC8CJMGJUHE"><img className="footericon img-fluid mx-2" src="img/GrabFoodLogowhite.png" style={{ width: 50, height: 50 }} alt="" /></a>
                     </div>
                     <div className="vr" style={{ width: 2, height: 90, color: "white", opacity: 10 }}></div>
                     <div>
-                    <a href="https://www.facebook.com/onlypansph"><img className="footericon img-fluid mx-2" src="/img/facebook--v1.png" style={{ width: 40 }} /></a>
+                    <a href="https://www.facebook.com/onlypansph"><img className="footericon img-fluid mx-2" src="img/facebook--v1.png" style={{ width: 40 }} /></a>
                     
-                    <a href="https://www.instagram.com/onlypanspoblacion/?hl=en&fbclid=IwAR0C_9yi4DyvZnjXOmpH3dqxYZDJCQ_9R3Ru5kqrXOJxDL4O3Jy06OXkyCs"><img className="footericon img-fluid mx-2" src="/img/instagramnewv1.png" style={{ width: 40 }} /></a>
+                    <a href="https://www.instagram.com/onlypanspoblacion/?hl=en&fbclid=IwAR0C_9yi4DyvZnjXOmpH3dqxYZDJCQ_9R3Ru5kqrXOJxDL4O3Jy06OXkyCs"><img className="footericon img-fluid mx-2" src="img/instagramnewv1.png" style={{ width: 40 }} /></a>
                     </div>
                 </div>
                         </li>

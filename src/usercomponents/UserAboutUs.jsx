@@ -13,22 +13,21 @@ export default function UserAboutUs() {
                 <Carousel.Item interval={2000}>
                     <img
                         className="d-block w-100"
-                        src="https://scontent.fdxb1-1.fna.fbcdn.net/v/t39.30808-6/307750053_605413957989627_8794517207391078997_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=d0s85nOOWEwAX-jZjAJ&_nc_ht=scontent.fdxb1-1.fna&oh=00_AT_USMYiUgwp9bJMbUto3GQhH7mDlbXjoN1HMFVFiGB0UA&oe=63306C9F"
+                        src="img/AboutUs1resized.png"
                         alt="First slide"
                     />
                 </Carousel.Item>
 
                 <Carousel.Item interval={2000}>
                     <img
-                        className="d-block w-100"
-                        src="https://scontent.fdxb1-1.fna.fbcdn.net/v/t39.30808-6/307461683_605413867989636_7977856939855303875_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=9N1B-0bE_DUAX88yxaw&_nc_ht=scontent.fdxb1-1.fna&oh=00_AT82RyMT_1g8ilKufTFPreZPVr-5lBYXV59SLkAEvSZ0YQ&oe=63311BBF"
+                        className="img/AboutUs2resized.png"
                         alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item interval={2000}>
                     <img
                         className="d-block w-100"
-                        src="https://scontent.fdxb1-1.fna.fbcdn.net/v/t39.30808-6/307461744_605413917989631_6842389866800087816_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_ohc=-yUjuonQK2EAX9qWP_a&_nc_ht=scontent.fdxb1-1.fna&oh=00_AT_mHSYJbz3uyT50rtqUPe3j6WBOIBxXt5dimcOY536m1Q&oe=633132DA"
+                        src="img/AboutUs3resized.png"
                         alt="Third slide"
                     />
                 </Carousel.Item>
@@ -107,7 +106,7 @@ export default function UserAboutUs() {
                 <div className="container d-flex flex-column gap-5 p-3" style={{ borderRadius: 15, backgroundColor: 'rgba(52, 52, 52, 0.02)', width: 900 }}>
                     <div className="container d-flex justify-content-start align-items-center">
                         <div className="">
-                            <img className="mx-3" src="/img/opdp2.png" alt="" style={{ width: 130, borderRadius: 100 }} />
+                            <img className="mx-3" src="img/opdp2.png" alt="" style={{ width: 130, borderRadius: 100 }} />
                         </div>
                         <div className="vr mx-5" style={{ width: 5, color: "red", opacity: 10 }}></div>
                         <div className="d-flex flex-column">
@@ -122,7 +121,7 @@ export default function UserAboutUs() {
                     </div>
                     <div className="container d-flex justify-content-start align-items-center">
                         <div className="">
-                            <img className="mx-3" src="/img/opdp.png" alt="" style={{ width: 130, borderRadius: 100 }} />
+                            <img className="mx-3" src="img/opdp.png" alt="" style={{ width: 130, borderRadius: 100 }} />
                         </div>
                         <div className="vr mx-5" style={{ width: 5, color: "red", opacity: 10 }}></div>
                         <div className="d-flex flex-column">

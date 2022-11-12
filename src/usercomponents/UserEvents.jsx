@@ -34,7 +34,7 @@ export default function UserEvents() {
                                 <div className="card cardI mb-3">
                                     <div className="row g-0">
                                         <div className="col-md-12">
-                                            <img src="/img/Events/Events 1/Event A resized.png"
+                                            <img src="img/Events/Events 1/Event A resized.png"
                                                 className="img-fluid rounded-start content_img" alt="poster" />
                                         </div>
                                         <div className="col-md-12">
@@ -61,7 +61,7 @@ export default function UserEvents() {
                                 <div className="card cardI mb-3">
                                     <div className="row g-0">
                                         <div className="col-md-12">
-                                            <img src="/img/Events/Events 3/Pop Up resized.png"
+                                            <img src="img/Events/Events 3/Pop Up resized.png"
                                                 className="img-fluid rounded-start content_img" alt="events" />
                                         </div>
                                         <div className="col-md-12">
@@ -98,7 +98,7 @@ export default function UserEvents() {
                                 <div className="card cardI mb-3">
                                     <div className="row g-0">
                                         <div className="col-md-12">
-                                            <img src="/img/Events/Events 2/Typhoon Odette.png"
+                                            <img src="img/Events/Events 2/Typhoon Odette.png"
                                                 className="img-fluid content_img rounded-start" alt="poster" />
                                         </div>
                                         <div className="col-md-12">
@@ -126,7 +126,7 @@ export default function UserEvents() {
                                 <div className="card cardI mb-3">
                                     <div className="row g-0">
                                         <div className="col-md-12">
-                                            <img src="/img//Events/Events 2/Pride Month resized.png"
+                                            <img src="img//Events/Events 2/Pride Month resized.png"
                                                 className="img-fluid content_img rounded-start" alt="events" />
                                         </div>
                                         <div className="col-md-12">

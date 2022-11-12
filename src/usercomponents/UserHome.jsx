@@ -36,13 +36,13 @@ function UserHome() {
                         <p className="textFavorite text-md-end text-center">Truly, Cartinas Taco is an experience you will never forget.</p>
                     </div>
                     <div className="col imgFavorite2 mb-3">
-                        <img src="/img/Menu/Home/carnitastaco.png" className="card-img-top container1" alt="..." style={{ border: '0px solid rgba(0, 0, 0, 0.7)', borderRadius: 10 }} />
+                        <img src="img/Menu/Home/carnitastaco.png" className="card-img-top container1" alt="..." style={{ border: '0px solid rgba(0, 0, 0, 0.7)', borderRadius: 10 }} />
                     </div>
                 </div>
 
                 <div className="row d-flex flex-md-row flex-column mt-5 mb-5 ">
                     <div className="col imgFavorite1">
-                        <img src="/img/Menu/Home/camaronshrimptostadas.png" className="card-img-top img-fluid container1" alt="..." style={{ border: '0px solid rgba(0, 0, 0, 0.7)', borderRadius: 10 }} />
+                        <img src="img/Menu/Home/camaronshrimptostadas.png" className="card-img-top img-fluid container1" alt="..." style={{ border: '0px solid rgba(0, 0, 0, 0.7)', borderRadius: 10 }} />
                     </div>
                     <div className="col">
                         <h5 className="homepic mb-3 bg-dark text-white p-2 fs-3 text-md-start text-center mt-3 mt-md-0" style={{ borderRadius: 5 }}>Camaron Tostadas</h5>
@@ -65,7 +65,7 @@ function UserHome() {
                             would not get tired of it.</p>
                     </div>
                     <div className="col imgFavorite2 mb-3">
-                        <img src="/img/Menu/Home/quesadillas.png" className="card-img-top container1" alt="..." style={{ border: '0px solid rgba(0, 0, 0, 0.7)', borderRadius: 10 }} />
+                        <img src="img/Menu/Home/quesadillas.png" className="card-img-top container1" alt="..." style={{ border: '0px solid rgba(0, 0, 0, 0.7)', borderRadius: 10 }} />
                     </div>
                 </div>
                 
