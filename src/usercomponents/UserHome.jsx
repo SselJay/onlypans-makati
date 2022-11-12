@@ -8,7 +8,7 @@ function UserHome() {
     return (
         <>
             <div className="mt-1 mb-5">
-                <img alt="" src="img/onlyPansstore.jpeg" className="img-fluid opacity-75" style={{ borderBottom: '8px solid rgba(0, 0, 0, 1)' }} />
+                <img alt="" src="img/onlyPansstore.jpeg" className="img-fluid opacity-75 w-100" style={{ height: 900, borderBottom: '8px solid rgba(0, 0, 0, 1)' }} />
             </div>
             <div className="container sectionOneFavorite">
                 <div className="row d-flex flex-md-row flex-column mt-5 mb-5 ">
