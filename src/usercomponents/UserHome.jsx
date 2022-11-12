@@ -8,7 +8,7 @@ function UserHome() {
     return (
         <>
             <div className="mt-1 mb-5">
-                <img alt="" src="https://scontent.ffjr1-3.fna.fbcdn.net/v/t39.30808-6/308513978_605411891323167_655469283823557726_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0debeb&_nc_ohc=NRG6wpJmk-kAX-u_8L5&_nc_ht=scontent.ffjr1-3.fna&oh=00_AT_KT7OArJa1CuFx8OZ4S9Aqgu00OM-CcAF6ChAeYdzgcg&oe=63309B1F" className="img-fluid opacity-75" style={{ borderBottom: '8px solid rgba(0, 0, 0, 1)' }} />
+                <img alt="" src="img/onlyPansstore.jpeg" className="img-fluid opacity-75" style={{ borderBottom: '8px solid rgba(0, 0, 0, 1)' }} />
             </div>
             <div className="container sectionOneFavorite">
                 <div className="row d-flex flex-md-row flex-column mt-5 mb-5 ">
